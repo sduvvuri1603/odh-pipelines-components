@@ -15,10 +15,7 @@ tags:
   - yoda_speak
   - translation
 lastVerified: 2025-12-19T11:30:16Z
-ci:
-  compile_check: true
 links:
   dataset: https://huggingface.co/datasets/dvgodoy/yoda_sentences
-
 ci:
   compile_check: true
